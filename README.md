@@ -1,1 +1,1 @@
-# Spotify-Web-Extension
+# Spotify-Mini-player
